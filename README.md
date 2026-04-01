@@ -32,8 +32,6 @@ I’m a **Software Engineer** passionate about building smart, scalable solution
 
 - **LinkedIn**: [https://www.linkedin.com/in/abdulmananraja/](https://www.linkedin.com/in/abdulmananraja/)
 - **GitHub**: [github.com/maniraja1122](https://github.com/maniraja1122/)  
-- **Email**: [mani@codeacme.com](mailto:mani@codeacme.com)
-- **Company**: [CodeAcme](https://codeacme.com/)
 
 Thanks for stopping by my GitHub—check out my repositories for some of my favorite projects!
 
