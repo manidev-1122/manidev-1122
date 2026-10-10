@@ -31,7 +31,7 @@ I’m a **Software Engineer** passionate about building smart, scalable solution
 ## :link: Let’s Connect
 
 - **LinkedIn**: [https://www.linkedin.com/in/abdulmananraja/](https://www.linkedin.com/in/abdulmananraja/)
-- **GitHub**: [github.com/maniraja1122](https://github.com/maniraja1122/)  
+- **GitHub**: [github.com/manidev-1122](https://github.com/manidev-1122/)  
 
 Thanks for stopping by my GitHub—check out my repositories for some of my favorite projects!
 
@@ -39,11 +39,11 @@ Thanks for stopping by my GitHub—check out my repositories for some of my favo
 </div>
 <div align="center">
 <!---
-![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maniraja1122&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manidev-1122&theme=blue-green)
 -->
-<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maniraja1122&show_icons=true&locale=en" alt="maniraja1122" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manidev-1122&show_icons=true&locale=en" alt="manidev-1122" /></p>
 <!---
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maniraja1122&" alt="maniraja1122" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manidev-1122&" alt="manidev-1122" /></p>
 -->
 🔗 &nbsp; <b>Competitive Programming</b>
 <p align="left">
